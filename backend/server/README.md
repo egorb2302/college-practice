@@ -184,7 +184,7 @@ GET /api/products?minPrice=3000&maxPrice=9000&inStock=true&limit=20&offset=0
 }
 ```
 
-## 12) Swagger
+## 12) SwaggerUI
 
 Полная интерактивная документация:
 - [http://localhost:3000/api/docs](http://localhost:3000/api/docs)
